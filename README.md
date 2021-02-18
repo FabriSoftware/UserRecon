@@ -1,7 +1,5 @@
 # UserRecon - remote connector
 
-[image]
-
 * Author #FF0000 | FabriSoftware
 * Twitter: [@fabritutoriale_](https://twitter.com/fabritutoriale_)
 * Discord: 0xFF0000#4940
