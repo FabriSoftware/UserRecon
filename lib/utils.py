@@ -31,7 +31,7 @@ def configure():
   if not host:
       host = "127.0.0.1"
 
-  port = input("["+Fore.GREEN+"+"+Fore.RESET+"] set port (19132): ")
+  port = int(input("["+Fore.GREEN+"+"+Fore.RESET+"] set port (19132): "))
   if not port:
       port = 19132
 

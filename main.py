@@ -39,7 +39,8 @@ def connected():
 
     while True:
      request = user_input("> ")
-     if request == "exit" or request == "^C" or request == "quit":
+     if request == "exit" or request == "quit":
+      print("["+Fore.GREEN+"~"+Fore.RESET+"] bye, bye")
       result.close()
       break
      

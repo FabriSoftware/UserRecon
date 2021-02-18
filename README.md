@@ -32,6 +32,8 @@ in windows
 
 `start.bat`
 
+### advices
+use `exit` or `quit` command in rcon to close the connection
 
 ### screenshots
 
